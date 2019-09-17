@@ -1,5 +1,9 @@
 # esports-cli
 
-### Step 1:
+### Installation:
 
 `npm install`
+
+### Usage:
+
+`node index [command] [arguments]`
