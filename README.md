@@ -7,3 +7,10 @@
 ### Usage:
 
 `node index [command] [arguments]`
+
+
+#### Commands
+  - euro
+  - home
+  - away
+  - spread
