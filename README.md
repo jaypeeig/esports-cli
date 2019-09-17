@@ -1,5 +1,5 @@
 # esports-cli
 
-###Step 1:
+### Step 1:
 
 `npm install`
